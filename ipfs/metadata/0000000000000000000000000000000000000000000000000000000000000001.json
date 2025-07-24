@@ -1,0 +1,15 @@
+{
+  "name": "Badge #1",
+  "description": "Description for Badge #1",
+  "image": "ipfs://QmWvti8WquUmsfiVizuiEr1UgqzWciqUSDS1vZuRxTgcjg/1.png",
+  "attributes": [
+    {
+      "trait_type": "Badge ID",
+      "value": 1
+    },
+    {
+      "trait_type": "Level",
+      "value": "Basic"
+    }
+  ]
+}

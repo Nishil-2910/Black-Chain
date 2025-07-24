@@ -1,0 +1,11 @@
+CertificateNFT Contract (ERC721)
+
+TokenRewards Contract (ERC20)
+
+HybridReward Contract (ERC1155)
+
+PurchaseReceipt Contract (could be integrated with RevenueSplitter)
+
+RevenueSplitter Contract (custom)
+
+AchievementBadges Contract (ERC721 or ERC1155)
