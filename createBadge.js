@@ -34,7 +34,6 @@ async function createBadge(name, description) {
   }
 }
 
-// Usage: node createBadge.js "Badge Name" "Badge Description"
 const name = process.argv[2];
 const description = process.argv[3];
 
